@@ -1,0 +1,15 @@
+{
+  "name": "connectfour",
+  "version": "1.0.0",
+  "description": "Multiplayer Connect Four in Virtual Reality!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Carr",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "socket.io": "^1.4.6"
+  }
+}
